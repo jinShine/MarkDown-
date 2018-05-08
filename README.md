@@ -127,16 +127,3 @@ Markdown은 텍스트 기반의 마크업언어로 2004년 존그루버에 의�
   
   ![대체 텍스트(alternative text)를 입력하세요!](https://devimages-cdn.apple.com/assets/elements/icons/swift/swift-64x64_2x.png "링크설명(title)을 작성하세요.")
 
-
-
-
- #### 이미지에 링크
- 
-  #### <사용법>
- ```
- [!Swift](https://devimages-cdn.apple.com/assets/elements/icons/swift/swift-64x64_2x.png "링크 설명(title)을 작성하세요.")
- [![Vue](/images/vue.png)](https://kr.vuejs.org/)
- ```
-
-[![Vue](/images/vue.png)](https://kr.vuejs.org/)
-
