@@ -137,3 +137,10 @@ Markdown은 텍스트 기반의 마크업언어로 2004년 존그루버에 의�
   
   ![대체 텍스트(alternative text)를 입력하세요!](https://devimages-cdn.apple.com/assets/elements/icons/swift/swift-64x64_2x.png "링크설명(title)을 작성하세요.")
 
+</br>
+</br>
+
+### 6. 코드 강조
+`<pre>`, `<code>`로 변환됩니다.
+숫자 왼쪽에 있는 ` (Grave)를 입력하세요
+
