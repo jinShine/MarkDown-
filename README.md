@@ -94,6 +94,37 @@ Markdown은 텍스트 기반의 마크업언어로 2004년 존그루버에 의�
   
   
   
-  
 ### 링크(Link)
-[GOOGLE](https://google.com)
+ * `<a>`로 변환된다.
+
+ #### <사용법>
+ ```
+ [GOOGLE](https://google.com)
+ [NAVER](https://naver.com "링크 설명(title)을 작성하세요.")
+ [상대적 참조](../users/login12)
+ ```
+ 
+  #### <적용>
+ [GOOGLE](https://google.com)
+ [NAVER](https://naver.com "링크 설명(title)을 작성하세요.")
+ [상대적 참조](../users/login12)
+ 
+ 
+ 
+ #### 이미지(Images)
+ 
+ * `<img>`로 변환된다. 링크와 비슷하지만 `!`가 붙는다.
+ 
+ 
+  #### <사용법>
+ ```
+ ![대체 텍스트(alternative text)를 입력하세요!](https://devimages-cdn.apple.com/assets/elements/icons/swift/swift-64x64_2x.png "링크 설명(title)을 작성하세요.")
+ 
+ ```
+ 
+  #### <적용>
+  ![대체 텍스트(alternative text)를 입력하세요!](https://devimages-cdn.apple.com/assets/elements/icons/swift/swift-64x64_2x.png "링크설명(title)을 작성하세요.")
+
+
+
+
