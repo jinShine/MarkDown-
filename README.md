@@ -2,7 +2,6 @@
 MarkDown에 대해서 알아 보자.
 </br>
 </br>
-</br>
 
 ## MarkDown이란?
 
@@ -10,8 +9,6 @@ Markdown은 텍스트 기반의 마크업언어로 2004년 존그루버에 의�
 
 </br>
 </br>
-</br>
-
 
 ## MarkDown Syntax
 
