@@ -1,7 +1,7 @@
 # MarkDown
 MarkDown 사용법
 
-[foo](#8.인용문)
+[foo](#8.-인용문)
 
 </br>
 
