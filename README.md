@@ -1,7 +1,7 @@
 # MarkDown
 MarkDown 사용법
 
-[foo](#MarkDown-Syntax)
+[foo](#markdown-syntax)
 
 </br>
 
